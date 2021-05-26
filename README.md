@@ -26,7 +26,8 @@ INSTALLATION
  - Grab The QuickStart.Zip from here: [Latest Release](https://github.com/MisModding/MisModPublisher/releases/latest)
  - Extract the content of the zip file.
  > You Can Extract the Package Anywhere you Like though the Information Below Presumes Your Current Users Desktop
- > run the included Update.exe to validate you have the lastest version
+ 
+ > you can run the included Update.exe to validate you have the lastest version
 
 
 <div align="center">
