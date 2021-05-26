@@ -26,7 +26,7 @@ INSTALLATION
  - Grab The QuickStart.Zip from here: [Latest Release](https://github.com/MisModding/MisModPublisher/releases/latest)
  - Extract the content of the zip file.
  > You Can Extract the Package Anywhere you Like though the Information Below Presumes Your Current Users Desktop
-
+ > run the included Update.exe to validate you have the lastest version
 
 
 <div align="center">
@@ -72,6 +72,12 @@ ADDITIONAL TOOLS
 
 **************************************************************************************************************************************************************************
 </div>
+
+- Updater
+
+ from time to time we may release various improvements or bugfixes for mismodpublisher
+ to ensure you have the latest version remember to run Updater.exe found in the same folder as you extracted mismodpublisher
+ (the mismodpublisher folder in the uickstart) when i finaly get round to working on the intended UI for this tool this will be done automaticaly. bu for now it needs to be done manualy
 
 - createVDF
 
